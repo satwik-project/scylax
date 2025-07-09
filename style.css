@@ -279,6 +279,7 @@ input[type=text] {
 	right: 0;
 	z-index: 999;
 	padding: 24px 0;
+	display: none;
 }
 
 .logo .hd-logo-link {
